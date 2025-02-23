@@ -31,7 +31,7 @@ const Index = () => {
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <a href="/" className="text-xl font-playfair font-medium">
-              Logo
+              Thibault Leture
             </a>
             <div className="hidden md:flex space-x-8">
               {["À propos", "Services", "Contact"].map((item) => (
